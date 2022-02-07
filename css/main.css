@@ -548,7 +548,7 @@ a{
     box-shadow: 0 0 2px 1px var(--gris-oscuro);
 }
 #contacto .contacto-item i{
-    color: var(--verde);
+    color: var(--rojizo);
     font-size: 40px;
 }
 #contacto .contacto-texto{
