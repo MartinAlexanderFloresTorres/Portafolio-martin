@@ -222,6 +222,7 @@ a{
 
 /* inicio */
 #inicio{
+    background-color: var(--black);
     background-image: url('../img/hero-bg.png');
     background-position: center;
     background-size: cover;
